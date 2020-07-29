@@ -14,7 +14,7 @@ def solution(N):
 def main():
     solution("Hello World") #F
     solution("Level") #T
-    solution("Go hang a salami - I'm a lasagna hog")
+    solution("Go hang a salami - I'm a lasagna hog") #T
 
 
 if __name__ == "__main__":

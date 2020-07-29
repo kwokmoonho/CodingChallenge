@@ -25,6 +25,7 @@ def subset_sum(answer,numbers, target, partial=[]):
         subset_sum(answer,remaining, target, partial + [n])
 
 user_input = [4, 5, 6, 89, 23, 5, 2, 3, 5]
+#[2,3,4,5,5,6,23,89]
 # sort array
 user_input.sort()
 answer = []
